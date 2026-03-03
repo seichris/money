@@ -678,7 +678,7 @@ export default function DemoPage() {
             }}
           >
             <div style={{ fontSize: '0.72rem', letterSpacing: '0.08em', textTransform: 'uppercase', color: '#93c5fd' }}>
-              Product Tour
+              GET STARTED
             </div>
             <div style={{ fontSize: '0.86rem', marginTop: '0.35rem' }}>
               {tourMessage(tourStep)}
